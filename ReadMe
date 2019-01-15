@@ -1,0 +1,4 @@
+This is an early project of mine that I coded in high school. When Window.java is run it creates a graphic interface
+from there you can enter the titles of two wikipedia pages, and the calculator will determine the number of hyperlinks 
+to go from the first page to the second. However, because it is poorly optimized at the moment the fewer max hops you set the search to,
+the faster results will be generated. (v1.0)
